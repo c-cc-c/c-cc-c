@@ -5,7 +5,7 @@
 
 *项目预览地址*: [点击预览](http://nk33.net)
 
-<img align="right" src="../images/0003.gif" align="right" width="430" height="100%" />
+<img align="right" src="./images/0003.gif" align="right" width="430" height="100%" />
 
 
 
