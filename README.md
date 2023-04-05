@@ -9,9 +9,12 @@
 <a href="#" accesskey="a"></a>
 <code>Alt</code> + <code>A</code> 快捷访问
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=c-cc-c&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-<!-- <img align="right" src="./images/0003.gif" align="right" width="350" height="100%" /> -->
+### 目前项目
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c-cc-c&repo=bilibiliAPI)](https://github.com/c-cc-c/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c-cc-c&repo=Win10-TransparentTaskbar)](https://github.com/c-cc-c/)
+
+<img align="right" src="./images/0003.gif" align="right" width="350" height="100%" />
 
 
 
