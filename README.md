@@ -12,7 +12,7 @@
 
 ### 目前项目
 
-![Readme Card](http://cs-card.glitch.me/card?name=%E7%88%B1&text=hello)
+![Readme Card](http://cs-card.glitch.me/card?name=%E7%88%B1&text=hello&face=http%3a%2f%2fq1.qlogo.cn%2fg%3fb%3dqq%26nk%3d2676547504%26s%3d100)
 
 
 
