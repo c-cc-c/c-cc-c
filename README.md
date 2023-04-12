@@ -11,7 +11,6 @@
 
 
 ### 目前项目
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c-cc-c&repo=bilibiliAPI)](https://github.com/c-cc-c/bilibiliAPI)
 
 ![Readme Card](http://cs-card.glitch.me/card?name=%E7%88%B1&text=hello)
 
