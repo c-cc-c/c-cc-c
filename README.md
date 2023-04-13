@@ -12,7 +12,7 @@
 
 ### 目前项目
 
-![Readme Card](http://cs-card.glitch.me/card?bg=https%3a%2f%2fs1.ax1x.com%2f2023%2f04%2f13%2fppxIwgs.png&face=https%3a%2f%2fs1.ax1x.com%2f2023%2f04%2f13%2fppx5zAU.jpg&name=小井&user=@c-cc-c)
+![Readme Card](http://cs-card.glitch.me/card?name=小井&user=@c-cc-c)
 
 
 
