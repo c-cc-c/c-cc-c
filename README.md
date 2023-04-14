@@ -11,8 +11,8 @@
 
 
 ### 目前项目
+<img src="http://cs-card.glitch.me/card?name=小井&user=@c-cc-c" align="right" width="430" height="100%" />
 
-![Readme Card](http://cs-card.glitch.me/card?name=小井&user=@c-cc-c)
 
 
 
