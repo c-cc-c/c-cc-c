@@ -19,8 +19,6 @@
 
 
 
-<img align="right" src="./images/0003.gif" align="right" width="350" height="100%" />
-
 
 
 
