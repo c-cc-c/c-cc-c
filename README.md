@@ -4,9 +4,9 @@
 
    
 
-*项目预览地址*: [待定](#)
+*关于个人*: [待定](//a.coser.tk)
 
-<a href="a.coser.tk" accesskey="a"></a>
+<a href="//a.coser.tk" accesskey="a"></a>
 <code>Alt</code> + <code>A</code> 快捷访问
 
 
