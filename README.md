@@ -4,9 +4,9 @@
 
    
 
-*关于个人*: [待定](//a.coser.tk)
+*关于个人*: [个人](//c-cc-c.github.io)
 
-<a href="//a.coser.tk" accesskey="a"></a>
+<a href="//c-cc-c.github.io" accesskey="a"></a>
 <code>Alt</code> + <code>A</code> 快捷访问
 
 
